@@ -1,11 +1,25 @@
 # Tomato-disease-classification-pretraining
 
-Tomato diseases and pests detection pretraining code
+## Summary
 
-Pretrained model directory : results/train/Efficientb4_20211006163747
+* Tomato diseases and pests detection pretraining code
 
-Pretrained files download link : https://drive.google.com/file/d/1a6Wek37z_UgDNRuOxiJePaeuNK-TjCNG/view?usp=sharing
+### Pretrained model directory
+```sh
+results/train/Efficientb4_20211006163747
+```
 
-Training code: train.py
+### Pretrained files dowload link
+```
+https://drive.google.com/file/d/1a6Wek37z_UgDNRuOxiJePaeuNK-TjCNG/view?usp=sharing
+```
 
-config : config/train_config.yml
+### Training code
+```
+train.py
+```
+
+### Configuration
+```
+config/train_config.yml
+```
